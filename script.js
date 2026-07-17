@@ -1,0 +1,1 @@
+function copyMail(){let t=document.getElementById('mail');t.select();document.execCommand('copy');alert('Copied!');}
